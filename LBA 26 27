@@ -1,0 +1,174 @@
+{
+  "league": "LBA",
+  "season": "2026-2027",
+  "teams": [
+    {
+      "name": "EA7 Olimpia Milano",
+      "abbr": "MIL",
+      "colors": ["#E2001A", "#FFFFFF"],
+      "roster": [
+        {"name": "N. Melli", "pos": "PF", "ovr": 86, "shoot": 82, "def": 88, "ath": 78},
+        {"name": "S. Napier", "pos": "PG", "ovr": 84, "shoot": 87, "def": 75, "ath": 82},
+        {"name": "T. Shields", "pos": "SF", "ovr": 85, "shoot": 86, "def": 77, "ath": 83},
+        {"name": "J. Voigtmann", "pos": "C", "ovr": 81, "shoot": 78, "def": 82, "ath": 70},
+        {"name": "D. Hall", "pos": "SG", "ovr": 82, "shoot": 85, "def": 74, "ath": 80},
+        {"name": "M. Bortolani", "pos": "SG", "ovr": 76, "shoot": 80, "def": 70, "ath": 74}
+      ]
+    },
+    {
+      "name": "Virtus Bologna",
+      "abbr": "VBO",
+      "colors": ["#000000", "#FFFFFF"],
+      "roster": [
+        {"name": "D. Hackett", "pos": "PG", "ovr": 83, "shoot": 80, "def": 84, "ath": 78},
+        {"name": "T. Mannion", "pos": "PG", "ovr": 78, "shoot": 81, "def": 70, "ath": 82},
+        {"name": "G. Belinelli", "pos": "SG", "ovr": 80, "shoot": 90, "def": 65, "ath": 68},
+        {"name": "J. Shengelia", "pos": "PF", "ovr": 87, "shoot": 82, "def": 85, "ath": 80},
+        {"name": "M. Mickey", "pos": "C", "ovr": 81, "shoot": 76, "def": 82, "ath": 77},
+        {"name": "K. Cordinier", "pos": "SF", "ovr": 79, "shoot": 74, "def": 82, "ath": 85}
+      ]
+    },
+    {
+      "name": "Reyer Venezia",
+      "abbr": "VEN",
+      "colors": ["#7A1E1E", "#D4AF37"],
+      "roster": [
+        {"name": "M. Spissu", "pos": "PG", "ovr": 82, "shoot": 84, "def": 78, "ath": 76},
+        {"name": "A. Casarin", "pos": "SG", "ovr": 77, "shoot": 79, "def": 72, "ath": 78},
+        {"name": "J. Willis", "pos": "PF", "ovr": 81, "shoot": 75, "def": 83, "ath": 80},
+        {"name": "K. Tucker", "pos": "SG", "ovr": 80, "shoot": 85, "def": 70, "ath": 79},
+        {"name": "M. Watt", "pos": "C", "ovr": 82, "shoot": 70, "def": 84, "ath": 74}
+      ]
+    },
+    {
+      "name": "Treviso Basket",
+      "abbr": "TVB",
+      "colors": ["#00AEEF", "#FFFFFF"],
+      "roster": [
+        {"name": "N. Akele", "pos": "SF", "ovr": 78, "shoot": 76, "def": 80, "ath": 79},
+        {"name": "G. Sokolowski", "pos": "SG", "ovr": 79, "shoot": 81, "def": 75, "ath": 78},
+        {"name": "M. Zanelli", "pos": "PG", "ovr": 77, "shoot": 78, "def": 74, "ath": 75}
+      ]
+    },
+    {
+      "name": "Taranto Basket",
+      "abbr": "TAR",
+      "colors": ["#CC0000", "#000080"],
+      "roster": [
+        {"name": "M. Gentile", "pos": "SF", "ovr": 78, "shoot": 80, "def": 72, "ath": 74},
+        {"name": "R. Jackson", "pos": "PG", "ovr": 79, "shoot": 82, "def": 70, "ath": 80},
+        {"name": "L. Marino", "pos": "PG", "ovr": 76, "shoot": 77, "def": 73, "ath": 74}
+      ]
+    },
+    {
+      "name": "Udine Basket",
+      "abbr": "UDI",
+      "colors": ["#000000", "#FFFFFF"],
+      "roster": [
+        {"name": "A. Pellegrino", "pos": "C", "ovr": 78, "shoot": 65, "def": 82, "ath": 72},
+        {"name": "L. Monaldi", "pos": "PG", "ovr": 77, "shoot": 79, "def": 74, "ath": 75},
+        {"name": "S. Italiano", "pos": "SF", "ovr": 76, "shoot": 75, "def": 76, "ath": 73}
+      ]
+    },
+    {
+      "name": "Scafati Basket",
+      "abbr": "SCA",
+      "colors": ["#0033A0", "#F2A900"],
+      "roster": [
+        {"name": "D. Logan", "pos": "SG", "ovr": 81, "shoot": 88, "def": 68, "ath": 74},
+        {"name": "N. Pinkins", "pos": "PF", "ovr": 80, "shoot": 72, "def": 82, "ath": 78},
+        {"name": "A. Rossato", "pos": "SF", "ovr": 76, "shoot": 74, "def": 76, "ath": 73}
+      ]
+    },
+    {
+      "name": "Bertram Tortona",
+      "abbr": "TOR",
+      "colors": ["#000000", "#F28C00"],
+      "roster": [
+        {"name": "C. Wright", "pos": "PG", "ovr": 82, "shoot": 84, "def": 76, "ath": 80},
+        {"name": "M. Daum", "pos": "PF", "ovr": 83, "shoot": 82, "def": 78, "ath": 79},
+        {"name": "J. Severini", "pos": "SF", "ovr": 77, "shoot": 75, "def": 78, "ath": 74}
+      ]
+    },
+    {
+      "name": "Maxima Roma",
+      "abbr": "MRM",
+      "colors": ["#800000", "#FFD700"],
+      "roster": [
+        {"name": "A. Maestranzi", "pos": "PG", "ovr": 78, "shoot": 80, "def": 74, "ath": 76},
+        {"name": "L. Datome", "pos": "SF", "ovr": 84, "shoot": 86, "def": 78, "ath": 79},
+        {"name": "G. Gigli", "pos": "PF", "ovr": 80, "shoot": 77, "def": 82, "ath": 75}
+      ]
+    },
+    {
+      "name": "Napoli Basket",
+      "abbr": "NAP",
+      "colors": ["#005BBB", "#FFFFFF"],
+      "roster": [
+        {"name": "J. Owens", "pos": "C", "ovr": 80, "shoot": 66, "def": 84, "ath": 76},
+        {"name": "M. Howard", "pos": "SG", "ovr": 79, "shoot": 83, "def": 70, "ath": 78},
+        {"name": "S. Zerini", "pos": "PF", "ovr": 77, "shoot": 72, "def": 80, "ath": 73}
+      ]
+    },
+    {
+      "name": "Pallacanestro Trieste",
+      "abbr": "TRI",
+      "colors": ["#D00000", "#FFFFFF"],
+      "roster": [
+        {"name": "F. Lever", "pos": "PF", "ovr": 78, "shoot": 75, "def": 80, "ath": 77},
+        {"name": "C. Davis", "pos": "SG", "ovr": 80, "shoot": 84, "def": 70, "ath": 79},
+        {"name": "J. Cooke", "pos": "C", "ovr": 79, "shoot": 70, "def": 82, "ath": 74}
+      ]
+    },
+    {
+      "name": "Pallacanestro Varese",
+      "abbr": "VAR",
+      "colors": ["#FF0000", "#FFFFFF"],
+      "roster": [
+        {"name": "G. Brown", "pos": "PG", "ovr": 81, "shoot": 83, "def": 74, "ath": 82},
+        {"name": "O. Reyes", "pos": "SF", "ovr": 78, "shoot": 79, "def": 72, "ath": 80},
+        {"name": "S. Moretti", "pos": "SG", "ovr": 75, "shoot": 78, "def": 70, "ath": 73}
+      ]
+    },
+    {
+      "name": "Verona Basket",
+      "abbr": "VER",
+      "colors": ["#0033A0", "#F2A900"],
+      "roster": [
+        {"name": "S. Anderson", "pos": "SF", "ovr": 79, "shoot": 80, "def": 76, "ath": 78},
+        {"name": "G. Caroti", "pos": "PG", "ovr": 76, "shoot": 78, "def": 72, "ath": 74},
+        {"name": "M. Udom", "pos": "PF", "ovr": 77, "shoot": 74, "def": 79, "ath": 75}
+      ]
+    },
+    {
+      "name": "Reggio Emilia",
+      "abbr": "REG",
+      "colors": ["#FF0000", "#FFFFFF"],
+      "roster": [
+        {"name": "A. Cinciarini", "pos": "PG", "ovr": 80, "shoot": 78, "def": 82, "ath": 72},
+        {"name": "F. Baldi Rossi", "pos": "PF", "ovr": 78, "shoot": 76, "def": 78, "ath": 70},
+        {"name": "O. Strautins", "pos": "SF", "ovr": 79, "shoot": 79, "def": 77, "ath": 76}
+      ]
+    },
+    {
+      "name": "Cantù",
+      "abbr": "CAN",
+      "colors": ["#0055FF", "#FFFFFF"],
+      "roster": [
+        {"name": "F. Nikolic", "pos": "PG", "ovr": 78, "shoot": 80, "def": 74, "ath": 75},
+        {"name": "J. Young", "pos": "SG", "ovr": 79, "shoot": 82, "def": 70, "ath": 78},
+        {"name": "A. Pecchia", "pos": "SF", "ovr": 77, "shoot": 75, "def": 78, "ath": 74}
+      ]
+    },
+    {
+      "name": "BC Roma",
+      "abbr": "BCR",
+      "colors": ["#800000", "#FFFFFF"],
+      "roster": [
+        {"name": "D. Tonolli", "pos": "PF", "ovr": 78, "shoot": 76, "def": 80, "ath": 73},
+        {"name": "R. Righetti", "pos": "SF", "ovr": 79, "shoot": 81, "def": 75, "ath": 74},
+        {"name": "M. Carraretto", "pos": "SG", "ovr": 77, "shoot": 82, "def": 70, "ath": 72}
+      ]
+    }
+  ]
+}
